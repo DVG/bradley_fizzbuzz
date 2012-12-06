@@ -1,6 +1,6 @@
 # BradleyFizzbuzz
 
-TODO: Write a gem description
+BradleyFizzbuzz, a gemified, test-driven fizzbuzz gem.
 
 ## Installation
 
