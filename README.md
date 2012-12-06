@@ -25,7 +25,7 @@ Or install it yourself as:
 1.fizz?                  # => false
 3.fizz?                  # => true
 5.fizz?                  # => false
-3.buzz?                  # => true
+3.buzz?                  # => false
 5.buzz?                  # => true
 1.fizzbuzz?              # => false
 15.fizzbuzz?             # => true
