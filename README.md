@@ -1,4 +1,4 @@
-# BradleyFizzbuzz
+# BradleyFizzbuzz [![Build Status](https://secure.travis-ci.org/DVG/bradley_fizzbuzz.png?branch=master)](https://travis-ci.org/DVG/bradley_fizzbuzz)
 
 BradleyFizzbuzz, a gemified, test-driven fizzbuzz gem.
 
